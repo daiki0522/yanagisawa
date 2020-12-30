@@ -2,28 +2,8 @@
 <html lang="ja">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>2020年5月22日から29日の愛知の気温（摂氏）</title>
-    <style>
-      table {
-        border-collapse: collapse;
-        border-style: solid none solid none;
-      }
-      tr:first-of-type { border-bottom: solid; }
-      td { text-align: center; }
-    </style>
+    <title>test</title>
   </head>
-  <body>
-    <table>
-      <tr><th>日</th><th>最低</th><th>最高</th></tr>
-      <tr><td>22  </td><td>15</td><td>25.9</td></tr>
-      <tr><td>23</td><td>18</td><td>27.3</td></tr>
-      <tr><td>24</td><td>20.8</td><td>26.2</td></tr>
-      <tr><td>25</td><td>17</td><td>29.3</td></tr>
-      <tr><td>26</td><td>13.6</td><td>29.5</td></tr>
-      <tr><td>27</td><td>15</td><td>26.7</td></tr>
-      <tr><td>28</td><td>16</td><td>28.1</td></tr>
-      <tr><td>29</td><td>19</td><td>228,1</td></tr>
-    </table>
+   　　 &#x67f3;  &#x6fa4;
   </body>
 </html>
